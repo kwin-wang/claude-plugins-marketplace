@@ -1,4 +1,4 @@
-# Claude Plugins Marketplace
+# Kevin's Claude Plugins Marketplace
 
 Personal plugin marketplace for Claude Code.
 

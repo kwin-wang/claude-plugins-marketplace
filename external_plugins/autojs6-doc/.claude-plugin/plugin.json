@@ -1,8 +1,0 @@
-{
-  "name": "autojs6-doc",
-  "description": "AutoJs6 scripting assistant with comprehensive API reference (100+ modules). Provides accurate function signatures, code examples, and pitfall warnings for Android automation scripting.",
-  "author": {
-    "name": "kevin.wang"
-  },
-  "repository": "https://github.com/kwin-wang/claude-plugin-autojs6"
-}
