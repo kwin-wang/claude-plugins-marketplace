@@ -14,9 +14,11 @@
       },
       "category": "development",
       "source": {
-        "source": "git",
+        "source": "git-subdir",
         "url": "https://github.com/kwin-wang/claude-plugin-autojs6.git",
-        "ref": "main"
+        "path": ".",
+        "ref": "main",
+        "sha": "348a1710f24ee86c973d51964d21fab832de07ef"
       },
       "homepage": "https://github.com/kwin-wang/claude-plugin-autojs6"
     }
